@@ -1,14 +1,14 @@
 - title: about
-  url: /about.html
+  url: /pages/about.html
 
 - title: resume
-  url: /resume.html
+  url: /pages/resume.html
 
 - title: writing
-  url: /writing.html
+  url: /pages/writing.html
 
 - title: graphics
-  url: /graphics.html
+  url: /pages/graphics.html
 
 - contact: contact
-  url: /contact.html
+  url: /pages/contact.html
