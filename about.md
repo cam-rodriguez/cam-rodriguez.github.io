@@ -3,15 +3,13 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+# Hi, my name's Cam Rodriguez.
+I'm a data journalist, cartographer, lifelong Midwesterner and ardent rom-com fan. You can usually catch me working on stories about social justice, the environment, infrastructure, history or other aspects of our day-to-day lives, like housing, education or labor. 
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Currently, I'm a data and graphics reporter at [Chalkbeat](https://chalkbeat.org), a nonprofit newsroom that covers education issues across the country. While at Chalkbeat, I've reported and collaborated on stories about graduation rates for Latino students in Colorado, the lack of data on nonbinary students at the federal level, dispersal of funds for the billions of dollars allocated to COVID-19 relief funding for public school districts, among many other pressing topics. Through [Votebeat](https://votebeat.org), which is focused on election administration, I've created graphics and run analysis on precinct boundaries, the Stop the Steal movement, election audits and more.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+## I have a variety of skills, and I haven't met a beat I don't like.
+My background is in investigative and data reporting, though I also have extensive multimedia reporting experience, shooting and editing photos, video, audio and creating all sorts of interactive and static graphics for stories. A specialty of mine is cartography, which I developed as a geography/GIS student at DePaul University. 
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+
+
