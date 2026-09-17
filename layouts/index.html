@@ -29,7 +29,7 @@ Cam Rodriguez is a data and investigative journalist based out of Chicago, Illin
 <h1>latest work</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+{{ with .Site.GetPage "/work" }}
     {{ range first 3 (sort .Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
