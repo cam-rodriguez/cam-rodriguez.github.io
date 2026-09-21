@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>cam-rodriguez</title>
-		<link>http://localhost:61517/</link>
+		<link>http://localhost:53177/</link>
 		<description>Recent content on cam-rodriguez</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,42 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:61517/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:53177/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>311 calls about June&#39;s heavy rain and winds mainly came from the South Side</title>
+				<link>http://localhost:53177/work/stormcalls/</link>
+				<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:53177/work/stormcalls/</guid>
+				<description>&lt;p&gt;Let&amp;rsquo;s see if this messes it up or actually works&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>A new website!</title>
-				<link>http://localhost:61517/posts/intro/</link>
+				<link>http://localhost:53177/posts/intro/</link>
 				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:61517/posts/intro/</guid>
+				<guid>http://localhost:53177/posts/intro/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;m making a real big-girl website instead of what used to be here, which was something to the effect of &amp;ldquo;whaddup loserzzzz!&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Chicago Sun-Times/WBEZ — Fourteen have died so far this year from heat-related causes in Chicago</title>
-				<link>http://localhost:61517/work/heatchart/</link>
+				<link>http://localhost:53177/work/heatchart/</link>
 				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:61517/work/heatchart/</guid>
+				<guid>http://localhost:53177/work/heatchart/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fourteen have died so far this year from heat-related causes in Chicago</title>
-				<link>http://localhost:61517/work/heatdeaths/</link>
+				<link>http://localhost:53177/work/heatdeaths/</link>
 				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:61517/work/heatdeaths/</guid>
+				<guid>http://localhost:53177/work/heatdeaths/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>notsquare</title>
-				<link>http://localhost:61517/work/notsquare/</link>
+				<link>http://localhost:53177/work/notsquare/</link>
 				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:61517/work/notsquare/</guid>
+				<guid>http://localhost:53177/work/notsquare/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title></title>
-				<link>http://localhost:61517/about/</link>
+				<link>http://localhost:53177/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:61517/about/</guid>
+				<guid>http://localhost:53177/about/</guid>
 				<description>&lt;p&gt;&lt;strong&gt;Hi, my name is Cam.&lt;/strong&gt; I&amp;rsquo;m a data journalist and investigative reporter based out of the greatest city in the world, Chicago.&lt;/p&gt;</description>
 			</item>
 	</channel>
