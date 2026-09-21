@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://example.org/</loc><lastmod>2026-09-16T00:00:00+00:00</lastmod></url><url><loc>https://example.org/posts/intro/</loc><lastmod>2026-09-16T00:00:00+00:00</lastmod></url><url><loc>https://example.org/posts/</loc><lastmod>2026-09-16T00:00:00+00:00</lastmod></url><url><loc>https://example.org/work/heatchart/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod></url><url><loc>https://example.org/work/heatdeaths/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod></url><url><loc>https://example.org/work/notsquare/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod></url><url><loc>https://example.org/work/</loc><lastmod>2026-08-10T00:00:00+00:00</lastmod></url><url><loc>https://example.org/about/</loc></url><url><loc>https://example.org/categories/</loc></url><url><loc>https://example.org/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>http://localhost:61517/</loc>
+            <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/posts/intro/</loc>
+            <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/posts/</loc>
+            <lastmod>2026-09-16T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/work/heatchart/</loc>
+            <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/work/heatdeaths/</loc>
+            <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/work/notsquare/</loc>
+            <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/work/</loc>
+            <lastmod>2026-08-10T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/about/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/tags/</loc>
+        </url>
+        
+    
+</urlset>

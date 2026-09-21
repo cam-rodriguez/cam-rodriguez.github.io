@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Works on cam-rodriguez</title><link>https://example.org/work/</link><description>Recent content in Works on cam-rodriguez</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/work/index.xml" rel="self" type="application/rss+xml"/><item><title>Chicago Sun-Times/WBEZ — Fourteen have died so far this year from heat-related causes in Chicago</title><link>https://example.org/work/heatchart/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://example.org/work/heatchart/</guid><description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Fourteen have died so far this year from heat-related causes in Chicago</title><link>https://example.org/work/heatdeaths/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://example.org/work/heatdeaths/</guid><description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>notsquare</title><link>https://example.org/work/notsquare/</link><pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate><guid>https://example.org/work/notsquare/</guid><description>&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Works on cam-rodriguez</title>
+		<link>http://localhost:61517/work/</link>
+		<description>Recent content in Works on cam-rodriguez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:61517/work/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chicago Sun-Times/WBEZ — Fourteen have died so far this year from heat-related causes in Chicago</title>
+				<link>http://localhost:61517/work/heatchart/</link>
+				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:61517/work/heatchart/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Fourteen have died so far this year from heat-related causes in Chicago</title>
+				<link>http://localhost:61517/work/heatdeaths/</link>
+				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:61517/work/heatdeaths/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Chicago has been hit by waves of high temps and humidity, which has been deadly for residents.&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>notsquare</title>
+				<link>http://localhost:61517/work/notsquare/</link>
+				<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:61517/work/notsquare/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
