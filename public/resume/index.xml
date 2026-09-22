@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Resumes on cam-rodriguez</title>
+		<link>http://localhost:1313/resume/</link>
+		<description>Recent content in Resumes on cam-rodriguez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/resume/dindex/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resume/dindex/</guid>
+				<description>&lt;h3 id=&#34;my-name-is-cam-and-im-an-investigative-and-data-reporter-im-looking-for-a-new-job-&#34;&gt;My name is Cam, and I’m an investigative and data reporter. I’m looking for a new job! 🔎&lt;/h3&gt; &lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I’m based in Chicago, Illinois, an incredible city for journalism and hearty meals.&lt;/li&gt;&#xA;&lt;li&gt;I’ve centered my career working on in-depth stories with local impact.&lt;/li&gt;&#xA;&lt;li&gt;My favorite roles have an overlap of enterprise, investigative, data and service journalism.&lt;/li&gt;&#xA;&lt;li&gt;The best way to contact me is &lt;a href=&#34;mailto:heycamrodriguez@gmail.com&#34;&gt;heycamrodriguez@gmail.com&lt;/a&gt; .&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Currently, I’m a &lt;a href=&#34;https://www.nytco.com/press/introducing-the-2024-25-local-investigations-fellows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Local Investigations Fellow&lt;/a&gt;  at The New York Times&lt;/strong&gt;, which has me criss-crossing Illinois in pursuit of stories about the presence of the shipping and logistics industry, one of the fastest-growing industries in the state.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/resume/rodriguez_readme/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/resume/rodriguez_readme/</guid>
+				<description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hi!&lt;/strong&gt; For a good stretch of time, I was looking for a new full-time reporting job. I&amp;rsquo;m not anymore! If you&amp;rsquo;ve come across this, possibly from bit.ly/cam-rodriguez-one-sheet, thank you for clicking through and checking me out. The best way to get in touch with me is &lt;a href=&#34;mailto:heycamrodriguez@gmail.com&#34;&gt;heycamrodriguez@gmail.com&lt;/a&gt; .&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;I really liked formatting my skills like this, though, and find it to be a valuable resource. I&amp;rsquo;m keeping it up for posterity, until I update my professional website and portfolio! :)&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
