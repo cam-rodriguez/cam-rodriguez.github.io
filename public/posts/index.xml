@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on cam-rodriguez</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>http://localhost:61517/posts/</link>
 		<description>Recent content in Posts on cam-rodriguez</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:61517/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Passion project escaped cave, rock displaced</title>
+				<link>http://localhost:61517/posts/foiaday/</link>
+				<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:61517/posts/foiaday/</guid>
+				<description>&lt;p&gt;The fun thing about spinning up fun cool ambitious unpaid projects while you&amp;rsquo;re unemployed is that the second you have a full-time job it becomes way less of a priority out of necessity.&lt;/p&gt;&#xA;&lt;p&gt;(Or, I&amp;rsquo;m planning on resurrecting &lt;a href=&#34;https://buttondown.com/foiaday&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;foiaday&lt;/a&gt; soon.)&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>A new website!</title>
-				<link>http://localhost:1313/posts/intro/</link>
+				<link>http://localhost:61517/posts/intro/</link>
 				<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/posts/intro/</guid>
+				<guid>http://localhost:61517/posts/intro/</guid>
 				<description>&lt;p&gt;I&amp;rsquo;m making a real big-girl website instead of what used to be here, which was something to the effect of &amp;ldquo;whaddup loserzzzz!&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 	</channel>

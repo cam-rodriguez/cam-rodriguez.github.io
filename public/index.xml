@@ -71,6 +71,13 @@
 			</item>
 			<item>
 				<title></title>
+				<link>http://localhost:61517/posts/foiaday/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:61517/posts/foiaday/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title></title>
 				<link>http://localhost:61517/resume/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:61517/resume/</guid>

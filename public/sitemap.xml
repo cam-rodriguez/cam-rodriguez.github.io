@@ -4,94 +4,101 @@
     
         
         <url>
-            <loc>http://localhost:53177/</loc>
+            <loc>http://localhost:61517/</loc>
+            <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/posts/foiaday/</loc>
+            <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/posts/</loc>
+            <lastmod>2026-09-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:61517/work/stormcalls/</loc>
             <lastmod>2026-09-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/work/stormcalls/</loc>
+            <loc>http://localhost:61517/work/</loc>
             <lastmod>2026-09-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/work/</loc>
-            <lastmod>2026-09-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:53177/clips/clip1/</loc>
+            <loc>http://localhost:61517/clips/clip1/</loc>
             <lastmod>2026-09-16T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/posts/intro/</loc>
+            <loc>http://localhost:61517/posts/intro/</loc>
             <lastmod>2026-09-16T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/posts/</loc>
-            <lastmod>2026-09-16T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:53177/work/heatchart/</loc>
+            <loc>http://localhost:61517/work/heatchart/</loc>
             <lastmod>2026-08-10T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/work/heatdeaths/</loc>
+            <loc>http://localhost:61517/work/heatdeaths/</loc>
             <lastmod>2026-08-10T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/work/notsquare/</loc>
+            <loc>http://localhost:61517/work/notsquare/</loc>
             <lastmod>2026-08-10T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/about/</loc>
+            <loc>http://localhost:61517/about/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/clips/</loc>
+            <loc>http://localhost:61517/clips/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/resume/</loc>
+            <loc>http://localhost:61517/resume/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/categories/</loc>
+            <loc>http://localhost:61517/categories/</loc>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:53177/tags/</loc>
+            <loc>http://localhost:61517/tags/</loc>
         </url>
         
     
