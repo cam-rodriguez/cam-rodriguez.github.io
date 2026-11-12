@@ -10,4 +10,4 @@
 
 📟 **Not on here**, you can drop me a line at heycamrodriguez (at) gmail (dot) com, or catch me on Twitter (if it's not burned to a crisp) at [@journo_cam](https://twitter.com/journo_cam), Bluesky at [@camrodriguez](https://bsky.app/profile/camrodriguez.bsky.social), or LinkedIn [here](https://www.linkedin.com/in/cam-rodriguez/).
 
-🦎 **Facts about me** other than work include: I drink too much coffee, I love thunderstorms, I've got a dog and on a road trip, I like to visit every historical site and roadside plaque I can.
+🦎 **Facts about me** other than work include: I drink too much coffee, I like mountains more than the beach, 
