@@ -1,5 +1,11 @@
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
+<i> {{ .Params.blurb }} </i>
+<br>
+<b>> {{ .Date | time.Format ":date_medium" }}</b>, published in {{ .Params.newsroom }}
+<br>
+<i><b>></b> <a href="{{ .Params.link}}">read the story here</a> </i>
+<br><br>
 
 {{ if and (isset .Params "image") .Params.image }}
     {{ $image := .Page.Resources.GetMatch .Params.image }}
